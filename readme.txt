@@ -42,4 +42,4 @@ billing_system/
 - Students doing mini projects
 - Small shops who want a basic offline billing system
 
-Made this just for practice and learning. Hope it's helpful to someone!
+Hope it's helpful to someone!
