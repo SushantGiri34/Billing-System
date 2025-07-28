@@ -39,7 +39,7 @@ billing_system/
 ✅ Ideal For:
 -------------
 - Beginners learning Python
-- Students doing mini projects
+- Students who's doing mini projects
 - Small shops who want a basic offline billing system
 
 Hope it's helpful to someone!
